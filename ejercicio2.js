@@ -34,3 +34,4 @@ const catalogoB = [
 
 const resultado = fusionarCatalogos(catalogoA, catalogoB);
 console.log(resultado);
+
